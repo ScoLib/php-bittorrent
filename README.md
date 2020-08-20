@@ -1,7 +1,7 @@
 # PHP BitTorrent
 **PHP BitTorrent** is a set of components that can be used to interact with torrent files (read+write) and encode/decode to/from the [BitTorrent format](https://wiki.theory.org/index.php/BitTorrentSpecification).
 
-[![Current Build Status](https://github.com/christeredvartsen/php-bittorrent/workflows/Build%20and%20test/badge.svg)](https://github.com/christeredvartsen/php-bittorrent/actions)
+[![Current Build Status](https://github.com/scolib/php-bittorrent/workflows/Build%20and%20test/badge.svg)](https://github.com/scolib/php-bittorrent/actions)
 
 ## Requirements
 PHP BitTorrent requires PHP 7.2 or above.
@@ -9,7 +9,7 @@ PHP BitTorrent requires PHP 7.2 or above.
 ## Installation
 PHP BitTorrent can be installed using [Composer](https://getcomposer.org):
 
-    composer require christeredvartsen/php-bittorrent ^2.0
+    composer require scolib/php-bittorrent ^2.0
 
 ## Using the PHP BitTorrent API
 ### Encode PHP variables
