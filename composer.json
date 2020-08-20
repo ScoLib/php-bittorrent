@@ -1,17 +1,21 @@
 {
-  "name": "christeredvartsen/php-bittorrent",
+  "name": "scolib/php-bittorrent",
   "type": "library",
   "description": "A set of components that can be used to interact with torrent files (read+write) and classes that can encode/decode to/from the BitTorrent format.",
   "keywords": [
     "bittorrent",
     "torrent"
   ],
-  "homepage": "https://github.com/christeredvartsen/php-bittorrent",
+  "homepage": "https://github.com/scolib/php-bittorrent",
   "license": "MIT",
   "authors": [
     {
       "name": "Christer Edvartsen",
       "email": "cogo@starzinger.net"
+    },
+    {
+      "name": "klgd",
+      "email": "slice1213@gmail.com"
     }
   ],
   "require": {
@@ -23,8 +27,8 @@
     "phpstan/phpstan": "^0.12"
   },
   "support": {
-    "source": "https://github.com/christeredvartsen/php-bittorrent",
-    "issues": "https://github.com/christeredvartsen/php-bittorrent/issues"
+    "source": "https://github.com/scolib/php-bittorrent",
+    "issues": "https://github.com/scolib/php-bittorrent/issues"
   },
   "autoload": {
     "psr-4": {
